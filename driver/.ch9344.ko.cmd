@@ -1,0 +1,1 @@
+cmd_/home/pi/ch9344driver_1.17/driver/ch9344.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/ch9344driver_1.17/driver/ch9344.ko /home/pi/ch9344driver_1.17/driver/ch9344.o /home/pi/ch9344driver_1.17/driver/ch9344.mod.o;  true
