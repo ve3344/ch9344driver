@@ -1,5 +1,5 @@
 # ch9344 linux serial driver
-
+CH9344芯片的Linux驱动，修复部分问题，并在树莓派上编译
 ## Description
 
 ​	This directory contains 2 parts, ch9344 driver and gpio testing utility. This driver and application only support USB to quad serial ports chip ch9344.
